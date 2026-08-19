@@ -12,3 +12,5 @@ All notable changes to the "sds-vscode" extension pack will be documented in thi
 - 0.1.5 Adding multiple Python, DB, and misc. extensions
 - 0.1.6 Adding Markdown All In One
 - 0.1.7 Adding SQL Tools and MongoDB
+- 0.1.8 Adding Claude Code and ChatGPT
+- 0.1.9 Removing GitHub Copilot

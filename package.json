@@ -9,7 +9,7 @@
       "type": "git",
       "url": "https://github.com/uvads/sds-vscode"
     },
-  "version": "0.1.7",
+  "version": "0.1.9",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -18,11 +18,11 @@
     "Data Science",
     "Education"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
+    "anthropic.claude-code",
     "donjayamanne.python-environment-manager",
     "formulahendry.vscode-mysql",
-    "github.codespaces", 
-    "github.copilot", 
+    "github.codespaces",
     "github.vscode-github-actions",
     "magicstack.MagicPython",
     "mechatroner.rainbow-csv", 
@@ -42,6 +42,7 @@
     "ms-vsliveshare.vsliveshare", 
     "mtxr.sqltools",
     "njpwerner.autodocstring",
+    "openai.chatgpt",
     "quarto.quarto",
     "redhat.vscode-yaml",
     "REditorSupport.r",
