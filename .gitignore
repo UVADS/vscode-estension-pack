@@ -2,3 +2,4 @@
 *.vsix
 .DS_store
 */.DS_store
+UPLOAD.md
